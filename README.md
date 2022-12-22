@@ -1,4 +1,4 @@
-- Current Project: Password Generator on Rust
+- Current project: Password Generator on Rust
 - Progress: Setting Up
 
 <!---
